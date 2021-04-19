@@ -3,11 +3,11 @@
  *
  * Описание для поисковых машин
  *
- * @category	SEO
+ * @category	tvs
  * @name		description
  * @internal	@caption Meta description
  * @internal	@input_type textareamini
- * @internal	@modx_category 
+ * @internal	@modx_category SEO
  * @internal	@input_default 
  * @internal	@input_options 
  */
