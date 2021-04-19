@@ -3,8 +3,9 @@
  *
  * Теги хидера
  *
- * @category	SEO
+ * @category	chunks
  * @name		head_tags
+ * @internal	@modx_category SEO
  * @internal	@caption Теги хидера
  */
 
